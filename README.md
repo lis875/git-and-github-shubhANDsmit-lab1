@@ -1,3 +1,3 @@
 An exciting new project!
 
-By: Shubh and Smit
+By: Shubh Oswal and Smit Patel
